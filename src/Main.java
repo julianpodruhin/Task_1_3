@@ -1,5 +1,9 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+public class Main
+{
+    public static void main(String[] args)
+    {
+        int number=10500;
+        int result= (number/10)/10;
+        System.out.println(result);
     }
 }
